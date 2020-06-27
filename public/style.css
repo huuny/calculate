@@ -1,0 +1,56 @@
+.main{
+    border: 1.8px solid purple;
+    width: 190px;
+    margin: 0 auto;
+    background-color: purple;
+
+}
+.inp{
+    width: 95.7%;
+    background-color: lawngreen;
+    color: snow;
+
+}
+.clbt{
+    width: 100%;
+    margin-top: 8px;
+    background-color: lawngreen;
+}
+.clbt:hover{
+    background-color: yellow;
+}
+
+ .bt{
+   width: 41px;  
+   margin: 1px;
+   background-color: lawngreen;
+   margin-left: 2.2px
+ }
+ .bt:hover{
+     background-color: yellow;
+ }
+ .bth{
+     width: 88px;
+    background-color: lawngreen;
+    margin-left: 3px;
+
+ }
+ .bth:hover{
+     background-color: yellow;
+ }
+ .btn{
+    width: 41px;  
+    margin: 1px;
+    background-color: lawngreen;
+    margin-left: 3.6px
+  
+
+ }
+ .btn:hover{
+     background-color: yellow;
+ }
+ .name{
+     
+     
+     margin-top: 50px;
+ }
